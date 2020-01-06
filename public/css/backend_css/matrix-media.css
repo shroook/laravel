@@ -8,13 +8,19 @@ body {
 	background-color: #1f262d;
   
 }
+#sidebar {
+    background-color: darkgoldenrod;
+    border-bottom: 1px solid #37414b;
+    background-color: #2E363F;
+	height: 100%;
+}
 #search input[type=text], #search button {
 	background-color: #28b779;
 }
 #search input[type=text]:focus {
 	color: #777777;
 }
-#sidebar > ul{border-bottom: 1px solid #37414b;background-color: #2E363F;height:1200px;}
+#sidebar > ul{border-bottom: 1px solid #37414b;background-color: #2E363F;}
 #sidebar > ul > li {
 	border-top: 1px solid #37414b; border-bottom: 1px solid #1f262d;
 }

@@ -1,5 +1,5 @@
 <!--Header-part-->
-<div id="header">
+<div id="header" style="background-color:#2E363F;">
   <h1><a href="{{url('/admin/dashboard')}}">Admin</a></h1>
 </div>
 <!--close-Header-part--> 
